@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Bicycle Touring Manual</title>
+    <link href="https://calebbrenden.github.io/feed.xml" rel="self" />
+    <link href="https://calebbrenden.github.io" />
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <author>
+        <name>Caleb Brenden</name>
+    </author>
+    <id>https://calebbrenden.github.io</id>
+
+</feed>

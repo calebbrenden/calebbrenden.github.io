@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Bicycle Touring Manual",
+    "description": "",
+    "home_page_url": "https://calebbrenden.github.io",
+    "feed_url": "https://calebbrenden.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Caleb Brenden"
+    },
+    "items": [
+    ]
+}
